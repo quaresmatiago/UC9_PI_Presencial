@@ -1,0 +1,20 @@
+cd C:\Users\Tiago Quaresma\OneDrive\µrea de Trabalho\UC9_PI_Presencial
+git branch -M main
+git remote -v
+git git commit -m "first commit"
+git commit -m "first commit"
+git push -u origin main
+git remote add origin https://github.com/quaresmatiago/UC9_PI_Presencial.git
+git push -u origin main
+git -a V1.0 -m "Programa PI UC9" 
+git tag -a V1.0 -m "Programa PI UC9" 
+git push -u origin --tag
+git status 
+git add
+git add .
+git status 
+git add . 
+git commit -m "atualizado" 
+git push -u origin main
+doskey /h
+doskey /h >tiago.txt
